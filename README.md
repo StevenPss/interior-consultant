@@ -12,7 +12,7 @@
       Demo
     </a>
     <span> | </span>
-    <a href="">
+    <a href="https://devchallenges.io/solutions/s0RSkDB2D0fuWAPf9sPp">
       Solution
     </a>
     <span> | </span>
@@ -36,7 +36,8 @@
 
 ## Overview
 
-![screenshot]()
+![screenshot](https://github.com/StevenPss/interior-consultant/blob/main/src/static/demo1.png)
+![screenshot](https://github.com/StevenPss/interior-consultant/blob/main/src/static/demo2.png)
 
 Introduce your projects by taking a screenshot or a gif. Try to tell visitors a story about your project by answering:
 
@@ -56,6 +57,7 @@ Introduce your projects by taking a screenshot or a gif. Try to tell visitors a 
 
 <!-- This section should list any major frameworks that you built your project using. Here are a few examples.-->
 
+- [React](https://reactjs.org/)
 - [Tailwind](https://tailwindcss.com/)
 
 ## Features
